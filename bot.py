@@ -8,13 +8,13 @@ from functions import insertUser, track_exists, addBalance, cutBalance, getData,
 bot_token = "6613441345:AAFcxbyUpJzsYC6_dzRo1uGUuPqo5Qb2TKg" #bot token from @BotFather
 SmmPanelApi = "smm api key" # api key from eadysmmpanel.com you can change api link
 bot = telebot.TeleBot(bot_token)
-admin_user_id = 5337150824
+admin_user_id = 6212819877
 welcome_bonus = 100
 ref_bonus = 500
 min_view = 100
 max_view = 30000
-required_channels = ['@pythonViewbooster']  # more channel same as
-payment_channel = "@pythonViewbooster"
+required_channels = ['@FallenDirectory']  # more channel same as
+payment_channel = "@FallenDirectoryLog"
 
 
 # Function to check if the user is a member of all required channels
